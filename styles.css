@@ -18,6 +18,7 @@
     rgba(255, 219, 47, 1) 11.2%,
     rgba(244, 253, 0, 1) 100.2%
   );
+  --color-tree-trunk: linear-gradient(0.25turn, #a3423c, #DE834D,#a3423c);
   --color-wish-letter: linear-gradient(0.5turn, #ffe300, #f9f871, #ffcc29);
 }
 
@@ -189,7 +190,7 @@ body {
 .base {
   width: 5rem;
   height: 2rem;
-  background-image: var(--color-star-light);
+  background-image: var(--color-tree-trunk);
   clip-path: polygon(0 0, 100% 0, 90% 100%, 10% 100%);
   position: relative;
   left: 52%;
