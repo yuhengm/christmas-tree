@@ -18,7 +18,7 @@
     rgba(255, 219, 47, 1) 11.2%,
     rgba(244, 253, 0, 1) 100.2%
   );
-  --color-tree-trunk: linear-gradient(0.25turn, #a3423c, #DE834D,#a3423c);
+  --color-tree-trunk: linear-gradient(0.25turn, #a3423c, #de834d, #a3423c);
   --color-wish-letter: linear-gradient(0.5turn, #ffe300, #f9f871, #ffcc29);
 }
 
@@ -40,7 +40,7 @@ body {
   width: 20rem;
   position: absolute;
   bottom: 10rem;
-  padding-top: 10rem;
+  padding-top: 4rem;
 }
 
 .star {
@@ -62,7 +62,7 @@ body {
   );
   position: absolute;
   left: 52%;
-  top: 10rem;
+  top: 4rem;
   transform: translate(-50%, -70%);
   z-index: 12;
   animation: rotate 4s linear infinite;
