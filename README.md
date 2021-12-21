@@ -6,4 +6,4 @@ This project is done following [YouTube tutorial](https://www.youtube.com/watch?
 
 ## Demo
 
-![Christmas Tree](/christmas-tree.gif)
+![Christmas Tree](/demo/christmas-tree.gif)
